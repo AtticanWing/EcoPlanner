@@ -1,8 +1,8 @@
 # EcoPlanner
 
-### Authors: Vanessa Lu, Ershey Waqar, and Raima Hoque
-
 EcoPlanner is my team's ECE297 Graphical Information Systems (GIS) Software Design Project, named so due to our focus on creating a user-friendly platform for environmentally conscious commuters. Developed with C++ and Git, our navigational GIS is optimized with A* algorithm routing built off of OpenStreetMap (OSM) Database APIs, with intuitive, universal GUI rendered through the GTK and EZGL graphics libraries.
+
+Authors: Vanessa Lu, Ershey Waqar, and Raima Hoque
 
 ## Overview:
 ![image](https://github.com/AtticanWing/EcoPlanner/assets/55766983/05dca64e-bc5f-42fc-a4f4-972a11c3094a)
