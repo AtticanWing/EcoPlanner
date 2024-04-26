@@ -4,10 +4,13 @@ ECE297 Graphical Information Systems (GIS) Software Design Project
 Navigation GIS developed with C++ and Git optimized with A* algorithm routing built off of OpenStreetMap (OSM) Database APIs, with intuitive GUI rendered through GTK and EZGL
 ![image](https://github.com/AtticanWing/EcoPlanner/assets/55766983/05dca64e-bc5f-42fc-a4f4-972a11c3094a)
 
-A* Algorithm for Path Finding between 2 intersections, which can be selected with either the mouse or the search bar:
-![Screenshot (25)](https://github.com/AtticanWing/EcoPlanner/assets/55766983/68460f11-1ff2-4b56-a1df-bc24bb835255)
+A* Algorithm is used to find the most optimal path between 2 intersections, which can be selected with either the mouse or the search bars.
 
+The route is then drawn on the map and a path directions window will open and stay on top of the map:
+![Screenshot (25)](https://github.com/AtticanWing/EcoPlanner/assets/55766983/68460f11-1ff2-4b56-a1df-bc24bb835255)
+The above shows a route when selected through the search bars.
 ![Screenshot (27)](https://github.com/AtticanWing/EcoPlanner/assets/55766983/9f530dda-dc20-4fb3-8729-87e7cfc69cc6)
+The above shows a route when selected with mouse clicks.
 
 # Distinct Features:
 
